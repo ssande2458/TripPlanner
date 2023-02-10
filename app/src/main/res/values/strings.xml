@@ -1,0 +1,21 @@
+<resources>
+    <string name="button_name">Next</string>
+    <string name="nameBoxVal">Enter a name</string>
+    <string name="app_name">Zoomies</string>
+    <string name="strStartPlanning">Start Planning</string>
+    <string name="strName">Name</string>
+    <string name="strNumberOfTravellers">Number Of Travellers</string>
+    <string name="str3">3</string>
+    <string name="str4">4</string>
+    <string name="strDuration">Duration</string>
+    <string name="strDays">Days</string>
+    <string name="strBudget">Budget</string>
+    <string name="strChooseDestination">Choose Destination</string>
+    <string name="strSelectStops">Select Stops</string>
+    <string name="strSeeTripSummary">See Trip Summary</string>
+    <string name="strTripSummary">Trip Summary</string>
+    <string name="strOrlando">Orlando</string>
+    <string name="strHawaii">Hawaii</string>
+    <string name="strCuba">Cuba</string>
+    <string name="strStartOver">Start Over</string>
+</resources>
